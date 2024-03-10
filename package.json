@@ -1,0 +1,14 @@
+{
+  "name": "playwright-ts-pom-framework",
+  "version": "1.0.0",
+  "description": "Framework para Playwright usando el patrón de diseño POM con Fixtures",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.25"
+  }
+}
